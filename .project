@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
+<<<<<<< HEAD
 	<name>SeleniumDemo</name>
+=======
+	<name>githubdemo</name>
+>>>>>>> 0c1dd9795d1a1670f876eb6ca1166682b7fbd92d
 	<comment></comment>
 	<projects>
 	</projects>
